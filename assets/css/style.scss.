@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@font-face {
+    font-family: 'SLB Sans';
+    src: url('https://ricardoarias1.github.io/SLBSANS-MEDIUM.OTF') format('otf');
+}
