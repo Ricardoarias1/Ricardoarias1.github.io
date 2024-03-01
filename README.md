@@ -1,3 +1,3 @@
-# Ricardoarias1.github.io
-
-### This sithe is to store content to be used in any website
+theme: jekyll-theme-minimal
+title: Font's homepage
+description: Bookmark this to keep an eye on my project updates!
